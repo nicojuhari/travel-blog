@@ -1,9 +1,9 @@
-@import "../section/_hero-banner.css";
-@import "../components/_share-buttons.css";
-@import "../section/_featured-post.css";
-@import "../section/_recent-travels.css";
-@import "../section/_travel-gallery.css";
-@import "../section/_sub-form.css";
+@import "../section/hero-banner.css";
+@import "../components/share-buttons.css";
+@import "../section/featured-post.css";
+@import "../section/recent-travels.css";
+@import "../section/travel-gallery.css";
+@import "../section/sub-form.css";
 
 .main-home-page section:nth-child(even) {
     background: aliceblue;

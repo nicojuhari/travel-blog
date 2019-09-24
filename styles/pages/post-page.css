@@ -1,8 +1,8 @@
-@import "../section/_article.css";
-@import "../components/_share-buttons.css";
-@import "../components/_aside.css";
-@import "../components/_author-card.css";
-@import "../components/_other-posts.css";
+@import "../section/article.css";
+@import "../components/share-buttons.css";
+@import "../components/aside.css";
+@import "../components/author-card.css";
+@import "../components/other-posts.css";
 
 body {
     background-color: aliceblue;
