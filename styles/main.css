@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400&display=swap');
-@import url("_common.css");
-@import url("_header.css");
-@import url("_footer.css");
+@import "common.css";
+@import "header.css";
+@import "footer.css";
 
 
 /* Global Elements Styles */
