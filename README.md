@@ -16,11 +16,11 @@ HTML, CSS
 
 ## Project review
 
-> Dear Student<br>
+> Dear Student :wave:<br>
 You have done exceptionally well in completing this project.<br>
-Congratulations for passing the Project. All the best for your future project<br>
+:boom: Congratulations for passing the Project. All the best for your future project :v:<br>
 If you find anything I have missed to point out or anything bad in my review, do give me feedback.<br>
-Happy Learning  and Stay Udacious
+Happy Learning :ok_hand: and Stay Udacious
 
 Full project review: [click here](https://drive.google.com/file/d/18d6AVh3wkWBP0en3mbddL-DGxvXWxu_f/view?usp=sharing)
 
