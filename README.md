@@ -1,5 +1,5 @@
 # Personal Blog Website
-Udacity - Project 1
+Udacity - Project 1<br>
 HTML, CSS
 
 ## Project requirements
