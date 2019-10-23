@@ -9,7 +9,7 @@ Udacity - Project 1
 4. CSS separate from HTML
 5. Semantic HTML5 tags
 
-## Project link
+## Project live link
 
 [Visit Travel Blog Page](https://nicojuhari.github.io/travel-blog/)
 
